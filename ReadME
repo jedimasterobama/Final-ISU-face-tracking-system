@@ -1,0 +1,8 @@
+Hi. This is my computer engineering project which tracks your face using ai and ngl its pretty cool like give it a try. Heres the tutorial
+Materials:
+2 servo motors
+picam
+Raspberry pi 4 with a 64 bit os
+DC power supply that can supply 5v to each servo (dont use your pi it will slow down the other processes)
+3d printer (preferably)
+
